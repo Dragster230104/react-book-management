@@ -3,7 +3,7 @@
 A modern, responsive Book Management System built with React and Vite. This application allows users to perform full CRUD operations on a book database, featuring a custom debounced search, dynamic data visualization, and an optimistic UI.
 
 ## 🚀 Live Demo
-[Insert your Vercel/Netlify link here]
+https://react-book-management-eiz4hflyu-shrey-uniyal-s-projects.vercel.app/
 
 ## ✨ Features
 - **Full CRUD Operations:** Seamlessly add, edit, view, and delete books.
@@ -26,7 +26,7 @@ A modern, responsive Book Management System built with React and Vite. This appl
 
 1. **Clone the repository:**
    \`\`\`bash
-   git clone [Insert your GitHub Repo Link here]
+   git clone https://github.com/Dragster230104/react-book-management.git
    \`\`\`
 
 2. **Navigate to the directory:**
